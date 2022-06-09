@@ -1,5 +1,5 @@
 
-This repo contains the relevant code and result files for the paper "What do we really know about State of the art NER?", to appear in LREC 2022, co-authored by Sowmya Vajjala (National Research Council, Canada) and Ramya Balasubramaniam (Novisto, Canada). 
+This repo contains the relevant code and result files for the paper ["What do we really know about State of the art NER?"](https://arxiv.org/abs/2205.00034), to appear in LREC 2022, co-authored by Sowmya Vajjala (National Research Council, Canada) and Ramya Balasubramaniam (Novisto, Canada). 
 
 **Here is some information on the core NLP libraries and their versions:**  
  -- Spacy 3.0, with en_core_web_trf model
